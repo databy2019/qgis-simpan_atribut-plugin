@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/simpan_atribut" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
